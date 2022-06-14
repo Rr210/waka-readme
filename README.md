@@ -34,10 +34,7 @@ Add comments to your `README.md` like this:
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       26 mins         █████████████████████▓░░░   86.55 %
-JavaScript   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
-JSON         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
