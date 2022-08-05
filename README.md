@@ -34,12 +34,12 @@ Add comments to your `README.md` like this:
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       19 hrs 37 mins  ████████████▓░░░░░░░░░░░░   50.99 %
-JavaScript   7 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.49 %
-LESS         4 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-Markdown     4 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
-HTML         1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-JSON         1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Vue.js       23 hrs 47 mins  █████████████▓░░░░░░░░░░░   54.96 %
+JavaScript   7 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
+LESS         4 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+Markdown     3 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+HTML         1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+JSON         1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 ```
 
 <!--END_SECTION:waka-->
