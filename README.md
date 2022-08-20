@@ -34,12 +34,7 @@ Add comments to your `README.md` like this:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 16 mins   ███████████████████▒░░░░░   76.68 %
-SCSS         57 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.26 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-LESS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
