@@ -34,9 +34,7 @@ Add comments to your `README.md` like this:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 56 mins    █████████████████████████   99.82 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
